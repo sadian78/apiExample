@@ -1,0 +1,15 @@
+D:\SadianGit\WebApi\ExampleWebApiCore\ExampleWebApiCore.Core\bin\Debug\net6.0\ExampleWebApiCore.Core.deps.json
+D:\SadianGit\WebApi\ExampleWebApiCore\ExampleWebApiCore.Core\bin\Debug\net6.0\ExampleWebApiCore.Core.dll
+D:\SadianGit\WebApi\ExampleWebApiCore\ExampleWebApiCore.Core\bin\Debug\net6.0\ExampleWebApiCore.Core.pdb
+D:\SadianGit\WebApi\ExampleWebApiCore\ExampleWebApiCore.Core\bin\Debug\net6.0\ExampleWebApiCore.DataLayer.dll
+D:\SadianGit\WebApi\ExampleWebApiCore\ExampleWebApiCore.Core\bin\Debug\net6.0\ExampleWebApiCore.DataLayer.pdb
+D:\SadianGit\WebApi\ExampleWebApiCore\ExampleWebApiCore.Core\obj\Debug\net6.0\ExampleWebApiCore.Core.csproj.AssemblyReference.cache
+D:\SadianGit\WebApi\ExampleWebApiCore\ExampleWebApiCore.Core\obj\Debug\net6.0\ExampleWebApiCore.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\SadianGit\WebApi\ExampleWebApiCore\ExampleWebApiCore.Core\obj\Debug\net6.0\ExampleWebApiCore.Core.AssemblyInfoInputs.cache
+D:\SadianGit\WebApi\ExampleWebApiCore\ExampleWebApiCore.Core\obj\Debug\net6.0\ExampleWebApiCore.Core.AssemblyInfo.cs
+D:\SadianGit\WebApi\ExampleWebApiCore\ExampleWebApiCore.Core\obj\Debug\net6.0\ExampleWebApiCore.Core.csproj.CoreCompileInputs.cache
+D:\SadianGit\WebApi\ExampleWebApiCore\ExampleWebApiCore.Core\obj\Debug\net6.0\ExampleWebApiCore.Core.csproj.CopyComplete
+D:\SadianGit\WebApi\ExampleWebApiCore\ExampleWebApiCore.Core\obj\Debug\net6.0\ExampleWebApiCore.Core.dll
+D:\SadianGit\WebApi\ExampleWebApiCore\ExampleWebApiCore.Core\obj\Debug\net6.0\refint\ExampleWebApiCore.Core.dll
+D:\SadianGit\WebApi\ExampleWebApiCore\ExampleWebApiCore.Core\obj\Debug\net6.0\ExampleWebApiCore.Core.pdb
+D:\SadianGit\WebApi\ExampleWebApiCore\ExampleWebApiCore.Core\obj\Debug\net6.0\ref\ExampleWebApiCore.Core.dll
